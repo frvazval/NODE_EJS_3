@@ -1,4 +1,3 @@
- import {sumar, restar} from "./funciones.js";
+ import {calculadora} from "./funciones.js";
 
- console.log(sumar(1,2));
- 
+ console.log(calculadora(5,10,"sumar"));
