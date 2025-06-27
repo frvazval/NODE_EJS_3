@@ -15,7 +15,7 @@ const configConnection = {
 const connection = mysql.createConnection(configConnection);
 
 app.get("/", (req, res) => {
-    req.send("<h1>Esto deberia ser una pagina web</h1>")
+    res.send("<h1>Esto deberia ser una pagina web</h1>")
 })
 
 app.get("/api/cities", (req, res) => {
