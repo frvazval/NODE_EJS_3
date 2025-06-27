@@ -1,1 +1,3 @@
 Hoy es viernes
+
+/api/cities?city=Barcelona&user=1234
