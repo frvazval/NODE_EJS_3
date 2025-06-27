@@ -1,0 +1,25 @@
+{
+  "name": "node_ejs_3",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "homepage": "https://github.com/frvazval/NODE_EJS_3#readme",
+  "bugs": {
+    "url": "https://github.com/frvazval/NODE_EJS_3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frvazval/NODE_EJS_3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {}
+}
